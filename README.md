@@ -2,7 +2,7 @@
 ## Overview
 This project involves a comprehensive analysis of an online retail dataset containing over 541,000 transactions. The goal is to extract valuable insights related to sales, customer behavior, and product performance, which are crucial for strategic decision-making in the retail industry.
 
-![Project Overview](images/project_overview.png)
+![Project Overview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4gzoE-abDTiq16h2T4QJXQ.png)
 
 ## Dataset
 The dataset consists of the following columns:
