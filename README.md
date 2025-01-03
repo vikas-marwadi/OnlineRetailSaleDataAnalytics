@@ -46,7 +46,7 @@ The dataset consists of the following columns:
 - Google Colab
 - Hugging Face Transformers
 - Google BigQuery
-- Tableau
+- Tableau [Dashboard](https://public.tableau.com/app/profile/vikas.marwadi/viz/OnlineRetailSales-Dashboard/Dashboard2)
 
 ## Conclusion
 This project demonstrates the integration of natural language processing (NLP), cloud-based analytics, and SQL to derive meaningful insights from raw retail data. The findings can significantly enhance operational efficiency and strategic decision-making in retail.
